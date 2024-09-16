@@ -1,0 +1,43 @@
+h1{
+    background-color:blueviolet
+}
+
+body{
+    background-color:rgb(9, 150, 243)
+}
+
+.misty{
+    color:red
+}
+
+#jamiroquai{
+    color:rgb(255, 0, 0)
+}
+
+h2{
+    color:red
+}
+
+h4{
+    color: red;
+}
+
+img{
+    border-style: groove;
+}
+
+header{
+    text-align: center;
+    color:red;
+    font-family: fantasy;
+    font-size:40px
+}
+
+main{
+    text-align: center;
+
+}
+
+footer{
+    text-align: center;
+}
